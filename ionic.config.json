@@ -1,0 +1,7 @@
+{
+  "name": "unmute-app-base",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
